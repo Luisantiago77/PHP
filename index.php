@@ -2,6 +2,6 @@
 
 	echo "Olá mundo 123!";
 	
-	echo "Ol's Hcode!";
+	echo "Olá Hcode!";
 
 ?>
